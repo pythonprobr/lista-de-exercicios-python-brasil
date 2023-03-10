@@ -1,5 +1,5 @@
 """
-Exercício 07 da seção de estrutura de Repeição da Python Brasil:
+Exercício 07 da seção de estrutura de Repetição da Python Brasil:
 https://wiki.python.org.br/EstruturaDeRepeticao
 
 Faça um programa que leia 5 números e informe o maior número.
